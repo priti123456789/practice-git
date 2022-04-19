@@ -54,7 +54,7 @@ public class DealerController {
 		//redirectView.setUrl(request.getContextPath() + "/");
 		//return redirectView;
 		return "Dealerindex";
-	}
+	} 
 
 	// delete handler
 	@RequestMapping("/delete/{productId}")
