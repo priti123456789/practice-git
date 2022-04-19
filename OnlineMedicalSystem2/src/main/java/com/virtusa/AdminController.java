@@ -85,7 +85,7 @@ Layout layout=new PatternLayout();
 		log.info("user are::"+list);
 		return "UserData";
 
-	}
+	} 
 
 	// 4 delete user record
 	//@PostMapping("/delete")
